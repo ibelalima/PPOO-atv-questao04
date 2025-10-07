@@ -17,5 +17,4 @@ ChatGPT (modelo GPT-5 Thinking mini)
 
 ## Por que ajustes melhoraram a solução
 - Classes explícitas mostram o Factory Method clássico de forma clara em avaliação.
-- Mensagens mais didáticas ajudam ao explicar em arguição (professor pergunta "o que acontece aqui?" — história).
 
